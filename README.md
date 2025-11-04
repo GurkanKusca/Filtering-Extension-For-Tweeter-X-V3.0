@@ -1,2 +1,3 @@
 # Filtering-Extension-For-Tweeter-X-V3.0
 Final version for filtering extension 
+For using with your own computer execute the tetsTorch.py i a compiler then open chrome extensions in developer mod then add this whole folder. After this procces only thing user has to do is add filters to extenison of ours.This project is preventing delay much better than V2.0 and also there will be an app for this filtering extension with works with the same way as first version of Extension. It will be preventing the download isiue for the Google WebRequestBlocking (Chrome Manifest V3 Restrictions) and I hope one day it will be filtering the whole internet unlike these extensions. Not only for Twitter.
